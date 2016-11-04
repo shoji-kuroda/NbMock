@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_2cb5f0a6bb80045ea0be396d81f3c0397833bffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_9ed3d93423a865ace44df99498d126f357756a76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_609b52be448a3e7c2e6486df7db0f5b38a48403a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_afbdffd674d0da1448b3afc9276a01960c50db1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_48c0a41c92162c75842e5d891a07a6d6f359f675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_3eef0f67c46e01fe6ef86499707747149d5ed3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_077786e73661a30a70340fb29a91cf2d1b27eb75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_3aabaa375947ceac723f859136ed798bf4b58e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d0814d4f0192526ca84a9c7f1c4584dda90d4c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_bf3b7f53876c995cd4577f8b2783ba411ac9f93e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d02a5fffb4066d27052b305b9911c04457861e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_b6884832165cda57b6d339f90089c7a56a3e9934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_b069c24275a3b53baa68ea52845bc183e7fbb654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_da124ea5a1b8dd1c926584a3aa95453c03e14947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_197b76a0b3b26dad7110f2272b0d8eef7b297f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_25d86a63480d7984b087d0632df129aed46f0635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6bbe1ad0d1d5a8195808bdc51847980a85851457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/kuroda02/Dev/android/NbMock/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_85d3cebdae61bfbf4dff01bfae88b8026324f274.jar" />
+    </item>
+
+</items>
